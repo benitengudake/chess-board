@@ -1,0 +1,17 @@
+{
+  "name": "chess-board",
+  "version": "0.1.0",
+  "private": "true",
+  "description": "The chess game",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benitengudake/chess-board.git"
+  },
+  "author": "Benitengudake",
+  "bugs": {
+    "url": "https://github.com/benitengudake/chess-board/issues"
+  },
+  "homepage": "https://github.com/benitengudake/chess-board#readme"
+}
